@@ -2,7 +2,7 @@
 
 This repository contains the dataset and resources used in this paper:
 
-**"Where You Cite Matters: Section‑Aware Embeddings for Citation Intent Classification"** (Submitted to MIWAI 2025)
+**"Where You Cite Matters: Section‑Aware Embeddings for Citation Intent Classification"** Submitted to 2025 RIVF International Conference on Computing and Communication Technologies (RIVF)
 
 ---
 
